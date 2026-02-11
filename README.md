@@ -15,6 +15,8 @@ Je suis **Diarrassouba Zacharia**, étudiant passionné par l'informatique et le
 ### Langages de programmation & technologies :
 - **Développement Frontend** : HTML, CSS, JavaScript
 - **Développement Backend** : Notions de Python, PHP
+- **Développement Mobil**    : WINDEV MOBIL
+- **Développement DESKTOP**    : WINDEV
 - **Autres** : Bases de données, méthodologies de projet, et apprentissage constant !
 
 ---
